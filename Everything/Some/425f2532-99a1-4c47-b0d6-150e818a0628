@@ -1,0 +1,15 @@
+&o0
+some_id: 425f2532-99a1-4c47-b0d6-150e818a0628
+texty_text: fau
+values:
+- some
+- another
+anothers:
+- another_id: 321096f0-7ebe-4f1e-9c98-67003e320db4
+  value: 
+  one_more:
+    one_more_id: fa20f7d4-ac22-4526-8511-8a2807e7ecd1
+    some: *o0
+- another_id: 7e5798d0-a7cd-4cea-b150-d9cfb2673626
+  value: 1.7976931348623157E+308
+  one_more: 
