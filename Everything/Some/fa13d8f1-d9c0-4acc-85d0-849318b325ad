@@ -1,0 +1,15 @@
+&o0
+someId: fa13d8f1-d9c0-4acc-85d0-849318b325ad
+textyText: fau
+values:
+- some
+- another
+anothers:
+- anotherId: 441acb81-582c-433c-981e-e2de84370478
+  value: 
+  oneMore:
+    oneMoreId: 7bc4986c-1b99-4920-a0e2-59eb1bfb2680
+    some: *o0
+- anotherId: 92ede6b4-c949-44ef-a35a-dd833d91aa59
+  value: 1.7976931348623157E+308
+  oneMore: 
