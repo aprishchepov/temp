@@ -1,0 +1,15 @@
+&o0
+some_id: 8a9104b6-3cd8-438e-8041-3833e701b787
+texty_text: fau
+values:
+- some
+- another
+anothers:
+- another_id: fb2e054c-0d9a-49d9-b008-b8e370d17781
+  value: 
+  one_more:
+    one_more_id: e4b4459a-e9d1-4a01-a82d-66f08d216331
+    some: *o0
+- another_id: 019b986e-87ee-477e-8da2-e77513a2247a
+  value: 1.7976931348623157E+308
+  one_more: 
