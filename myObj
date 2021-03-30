@@ -1,10 +1,15 @@
-someId: feec57ce-837d-40e3-968f-e3f3bf6b587e
+&o0
+someId: 0aabd726-1c27-4730-9452-7fe26e78e890
 textyText: fau
 values:
 - some
 - another
 anothers:
-- anotherId: 6e94f83b-cb48-41f5-9e39-b35b1e8b629f
+- anotherId: 5cccddb5-abb9-4c2c-a71f-d6c169e73025
   value: 
-- anotherId: 495161f7-0727-4fb2-9534-f1d4b607bc27
+  oneMore:
+    oneMoreId: d557ed6e-3cee-47b1-bc4f-fdfb38730ee6
+    some: *o0
+- anotherId: 6c12d057-55a9-44cc-b51c-db50089dab5a
   value: 1.7976931348623157E+308
+  oneMore: 
