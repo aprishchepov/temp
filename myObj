@@ -1,2 +1,10 @@
-someId: 92fb1b82-1513-48e1-96ad-bc07b1581f88
+someId: feec57ce-837d-40e3-968f-e3f3bf6b587e
 textyText: fau
+values:
+- some
+- another
+anothers:
+- anotherId: 6e94f83b-cb48-41f5-9e39-b35b1e8b629f
+  value: 
+- anotherId: 495161f7-0727-4fb2-9534-f1d4b607bc27
+  value: 1.7976931348623157E+308
